@@ -111,9 +111,9 @@
 							<rules>
 								<rule>
 									<element>CLASS</element>
-									<!--									<excludes>-->
-									<!--										<exclude>com.asimio.demo.Application</exclude>-->
-									<!--									</excludes>-->
+									<excludes>
+										<exclude>com.pluralsight.tddjunit5.airport.App</exclude>
+									</excludes>
 									<limits>
 										<limit>
 											<counter>LINE</counter>
